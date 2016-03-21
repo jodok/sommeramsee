@@ -1,0 +1,8 @@
+{
+    "site-url": "http://www.sommeramsee.at/",
+    "aws-access-key": "AKIAJAZ5USFZOE2U2BKA",
+    "aws-bucket-name": "www.sommeramsee.at",
+    "aws-bucket-region": "eu-central-1",
+    "aws-bucket-website": "www.sommeramsee.at.s3-website-eu-central-1.amazonaws.com",
+    "port": 8857
+}
